@@ -1,0 +1,29 @@
+{
+  "_comment": "Canonical publish queue read by the GitHub Actions publishers. Paths are repo-relative (served via raw.githubusercontent.com). The reel workflow picks the first ready REELS item due today (ICT); the poster workflow picks the first ready IMAGE item. Set status to 'ready' only once the media file is committed to this repo.",
+  "items": [
+    {
+      "slug": "what-happens-next",
+      "scheduledAt": "2026-10-19",
+      "filePath": "media/what-happens-next.png",
+      "caption": "what happens when you message us.\n\n1. you tell us what ate your week.\n2. we send back a one-page list of what we'd kill and what it saves.\n3. you decide if it's worth building.\n\nno pitch deck, no discovery phase, no invoice for the list.\n\nrobosys.\nmarketing & automation, done for you.\n\n#automation #marketing #businessowner #getstarted #robosys",
+      "mediaType": "IMAGE",
+      "status": "ready"
+    },
+    {
+      "slug": "one-person-this-week",
+      "scheduledAt": "2026-10-19",
+      "filePath": "media/one-person-this-week.mp4",
+      "caption": "most places hand you between departments.\n\na strategist. an account manager. three developers. six weeks to start.\n\nhere, it's one person. this week.\n\nfewer people isn't a compromise. it's why we're fast.\n\nrobosys.\nmarketing & automation, done for you.\n\n#automation #marketing #businessowner #smallbusiness #robosys",
+      "mediaType": "REELS",
+      "status": "ready"
+    },
+    {
+      "slug": "not-all-of-it",
+      "scheduledAt": "2026-10-21",
+      "filePath": "media/not-all-of-it.png",
+      "caption": "you don't need all of it.\n\nyou need the one that's costing you most. that's the one we find first.\n\nrobosys.\nmarketing & automation, done for you.\n\n#automation #businessowner #operations #smallbusiness #robosys",
+      "mediaType": "IMAGE",
+      "status": "ready"
+    }
+  ]
+}
