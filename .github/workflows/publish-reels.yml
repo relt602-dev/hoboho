@@ -1,0 +1,41 @@
+name: Publish Reels
+
+# 18:00 ICT (Asia/Ho_Chi_Minh, UTC+7 year-round) = 11:00 UTC. Mon-Sat.
+# GitHub cron is UTC and has no daylight saving, so this never drifts.
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: '0 11 * * 1-6'
+
+permissions:
+  contents: write
+
+# Reels and posters share one group so their queue.json commits never race.
+concurrency:
+  group: robosys-publisher
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Publish the due reel
+        id: pub
+        env:
+          META_IG_ACCESS_TOKEN: ${{ secrets.META_IG_ACCESS_TOKEN }}
+          META_IG_ACCOUNT_ID: ${{ secrets.META_IG_ACCOUNT_ID }}
+          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
+          META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
+        run: node scripts/publish.mjs REELS
+      - name: Commit queue.json if something was posted
+        if: steps.pub.outputs.posted == 'true'
+        run: |
+          git config user.name "robosys-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add queue.json
+          git commit -m "posted reel $(date -u +%FT%TZ)" || echo "nothing to commit"
+          git push
