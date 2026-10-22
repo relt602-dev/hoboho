@@ -1,10 +1,16 @@
 name: Publish Reels
 
-# 18:00 ICT (Asia/Ho_Chi_Minh, UTC+7 year-round) = 11:00 UTC. Mon-Sat.
-# GitHub cron is UTC and has no daylight saving, so this never drifts.
+# Two reel slots. GitHub cron is UTC and has no daylight saving, so neither drifts.
+# ICT = Asia/Ho_Chi_Minh, UTC+7 year-round.
 on:
   workflow_dispatch: {}
   schedule:
+    # ~06:00 ICT, Mon/Wed/Fri/Sat. 06:00 ICT = 23:00 UTC the PREVIOUS day, so the
+    # UTC day-of-week list is Sun/Tue/Thu/Fri (0,2,4,5) -- NOT 1,3,5,6. Set to :40
+    # of the prior hour because GitHub fires scheduled runs ~20-25 min late; this
+    # lands ~06:00-06:05 ICT instead of ~06:25.
+    - cron: '40 22 * * 0,2,4,5'
+    # 18:00 ICT, Mon-Sat = 11:00 UTC.
     - cron: '0 11 * * 1-6'
 
 permissions:
