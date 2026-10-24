@@ -87,6 +87,8 @@ async function main() {
   if (mediaTypeArg === 'REELS') {
     createParams.video_url = rawUrl;
     createParams.media_type = 'REELS';
+    // Without this, IG uses frame 0 as the grid cover; every element fades in from 0, so it's blank.
+    if (Number.isFinite(item.thumbOffset)) createParams.thumb_offset = item.thumbOffset;
   } else {
     createParams.image_url = rawUrl;
   }
