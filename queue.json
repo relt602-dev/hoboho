@@ -122,7 +122,8 @@
       "filePath": "media/before-you-pay.mp4",
       "caption": "you should know what a fix is worth before you pay for it.\n\nso the order goes like this. you tell us what ate your week. we send back a one page list of what we would kill and what it saves. then you decide if it is worth building.\n\nthe list itself costs nothing. no pitch deck, no discovery phase, no invoice attached.\n\nmost people are more surprised by what does not make the list than by what does.\n\n#businessowner #operations #smallbusinesstips #robosys",
       "mediaType": "REELS",
-      "status": "hold"
+      "status": "ready",
+      "thumbOffset": 2000
     },
     {
       "slug": "every-time",
@@ -130,7 +131,8 @@
       "filePath": "media/every-time.mp4",
       "caption": "time the thing you do most often. just once.\n\nthat number matters more than almost any other number in your business. not the software bill, not headcount. the minutes one repeated task takes, multiplied by how often it comes around.\n\nsix minutes, forty times a week, fifty weeks a year. that is two full working weeks gone to a single task.\n\nmost owners have never actually timed it. it takes thirty seconds and it usually changes what you work on next.\n\nhow long does yours take?\n\n#productivity #businessgrowth #operations #entrepreneur #robosys",
       "mediaType": "REELS",
-      "status": "hold"
+      "status": "ready",
+      "thumbOffset": 2000
     },
     {
       "slug": "one-desk",
@@ -138,7 +140,8 @@
       "filePath": "media/one-desk.mp4",
       "caption": "a job passed between six people is not six times better.\n\nevery handoff is a place where context leaks. the brief gets retyped, the reason it existed gets forgotten, and by the time it reaches whoever builds it, nobody remembers the problem it was meant to solve.\n\nthat is why the whole thing stays at one desk here. strategy through to the build.\n\nit also changes the first question. not what do you want built, but what is this costing you. that order is the opposite of most quotes you will get.\n\n#businesssystems #operations #smallbusiness #consulting #robosys",
       "mediaType": "REELS",
-      "status": "hold"
+      "status": "ready",
+      "thumbOffset": 2000
     },
     {
       "slug": "one-lit",
@@ -146,7 +149,8 @@
       "filePath": "media/one-lit.mp4",
       "caption": "you do not need everything automated. you need one thing automated.\n\nthere is always a long list of things that could be built. most of them would be fine. usually only one of them pays for itself inside the first month.\n\nfinding that one is most of the work. building it is the straightforward part.\n\ntry to do all of it at once and the project ends up costing more than the problems were costing you in the first place.\n\nwhat would be top of your list?\n\n#businessowner #operations #smallbusinesstips #systems #robosys",
       "mediaType": "REELS",
-      "status": "hold"
+      "status": "ready",
+      "thumbOffset": 2000
     },
     {
       "slug": "the-chain",
@@ -154,7 +158,8 @@
       "filePath": "media/the-chain.mp4",
       "caption": "marketing is not one job. it is a chain, and it breaks at the weakest link.\n\nthe ad, the page it lands on, the form, the follow up, the call, the invoice. each one hands to the next. a brilliant ad pointed at a slow page is just an expensive way to lose people.\n\nmost businesses buy these pieces separately from different people, and nobody owns the joins between them. which is exactly where it leaks.\n\nwe build and run the whole chain, because that is the only way to see where it is actually going wrong.\n\n#marketing #digitalmarketing #businessgrowth #leadgeneration #robosys",
       "mediaType": "REELS",
-      "status": "hold"
+      "status": "ready",
+      "thumbOffset": 2000
     },
     {
       "slug": "three-businesses",
@@ -162,7 +167,8 @@
       "filePath": "media/three-businesses.mp4",
       "caption": "a dental clinic, a freight broker and a gym have nothing in common.\n\none rebooks the people who did not show up. one chases rate confirmations by hand. one sends the same waiver over and over.\n\ncompletely different businesses, completely different work, and the same quiet problem sitting underneath all three.\n\nrepetitive work does not care what industry you are in. it takes the same slice out of everyone's week.\n\n#businessowner #operations #productivity #smallbusiness #robosys",
       "mediaType": "REELS",
-      "status": "hold"
+      "status": "ready",
+      "thumbOffset": 2000
     },
     {
       "slug": "not-a-list",
@@ -170,7 +176,8 @@
       "filePath": "media/not-a-list.mp4",
       "caption": "every agency has the same services page. search, social, branding, web design, email, ads.\n\nthe trouble with a menu is that it decides the answer before anyone has heard the question. you end up buying the thing that was on the list, not the thing that would have helped most.\n\nnobody has ever come to us asking for a service. they come asking for a quote that does not take three days, or a way to stop chasing the same invoice twice.\n\nthat is the real brief. whatever category it falls into matters a lot less.\n\n#marketing #businessowner #smallbusiness #strategy #robosys",
       "mediaType": "REELS",
-      "status": "hold"
+      "status": "ready",
+      "thumbOffset": 2000
     },
     {
       "slug": "ad-to-invoice",
@@ -178,7 +185,8 @@
       "filePath": "media/ad-to-invoice.mp4",
       "caption": "the gap between the ad and the invoice is where most marketing quietly fails.\n\nday one the ad goes live. two weeks in you find out whether the page actually converts. six weeks in the follow up should be running without anyone remembering to send it. three months in you learn whether they come back.\n\nmost people only ever measure the first step, because it is the only one anyone sends a report about.\n\nthe first click is the easy part. the ninety days after it are the job.\n\n#marketing #digitalmarketing #businessgrowth #advertising #robosys",
       "mediaType": "REELS",
-      "status": "hold"
+      "status": "ready",
+      "thumbOffset": 2000
     },
     {
       "slug": "what-is-it-costing",
@@ -186,7 +194,8 @@
       "filePath": "media/what-is-it-costing.mp4",
       "caption": "before you ask what something costs to build, work out what it is costing you not to.\n\ntake one repetitive task and add up a week of it honestly. the hours it eats. the jobs that never got quoted because you ran out of day. the invoices chased twice.\n\nthat total is the brief. it tells you what the fix is allowed to cost, and whether it is worth doing at all.\n\nit is also why one person can cover a whole job. once you know the cost, there is only ever one thing worth doing first.\n\n#businesssystems #operations #productivity #smallbusiness #robosys",
       "mediaType": "REELS",
-      "status": "hold"
+      "status": "ready",
+      "thumbOffset": 2000
     },
     {
       "slug": "three-swaps",
@@ -194,7 +203,8 @@
       "filePath": "media/three-swaps.mp4",
       "caption": "three days to send a quote becomes eleven minutes. six tabs become one screen. chasing people for payment becomes getting paid on time.\n\nthree completely different builds, with nothing technical in common between them.\n\nwhat they share is the shape of the problem. something repetitive was quietly taking a piece of every week, and the fix was to remove the repetition rather than get faster at it.\n\nthat is almost always where to start.\n\nif there is a part of your business that could work better, talk to us.\n\n#businessowner #operations #automation #smallbusinesstips #robosys",
       "mediaType": "REELS",
-      "status": "hold"
+      "status": "ready",
+      "thumbOffset": 2000
     },
     {
       "slug": "three-numbers",
