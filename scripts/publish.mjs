@@ -89,6 +89,9 @@ async function main() {
     createParams.media_type = 'REELS';
     // Without this, IG uses frame 0 as the grid cover; every element fades in from 0, so it's blank.
     if (Number.isFinite(item.thumbOffset)) createParams.thumb_offset = item.thumbOffset;
+    // Keep reels out of the main profile grid (Reels tab only) so the grid stays posters-only.
+    // A queue item can opt back in with shareToFeed: true.
+    createParams.share_to_feed = item.shareToFeed === true ? 'true' : 'false';
   } else {
     createParams.image_url = rawUrl;
   }
