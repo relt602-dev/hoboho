@@ -518,8 +518,11 @@
       "filePath": "media/reel-made-and-posted.mp4",
       "caption": "Got something new to share? We take it from idea to posted.\n\nTell us about it. We plan the content, make the video, poster, carousel and ad, and post them on a calendar that keeps going week after week.\nEvery piece stays on brand and on time.\n\nRobosys handles the whole content side of marketing, so your news gets seen.\n\nBring us the next launch. Send us a message.\n\n#contentcreation #socialmediamanagement #contentcalendar #videomarketing #brandcontent",
       "mediaType": "REELS",
-      "status": "ready",
-      "thumbOffset": 11400
+      "status": "posted",
+      "thumbOffset": 11400,
+      "postedAt": "2026-11-21",
+      "permalink": "https://www.instagram.com/reel/Df_QqAhBeiw/",
+      "permalinkFacebook": "POSTED:4423836181162366"
     },
     {
       "slug": "reel-ask-and-it-runs",
