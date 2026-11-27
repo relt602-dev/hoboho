@@ -813,6 +813,112 @@
       "mediaType": "REELS",
       "status": "ready",
       "thumbOffset": 3500
+    },
+    {
+      "slug": "01_Mon-14Dec-0600_reel_right-people",
+      "scheduledAt": "2026-12-14",
+      "filePath": "media/01_Mon-14Dec-0600_reel_right-people.mp4",
+      "caption": "More reach starts with knowing who your business needs to reach.\n\nMarketing works best when it is planned around your ideal customer: who they are, where they spend time and what they care about.\n\nRobosys plans and manages marketing built around the people most likely to value your business.\n\nTell us who your customers are. Send us a message.\n\n#BusinessMarketing #AudienceReach #TargetAudience #MarketingStrategy #Robosys",
+      "mediaType": "REELS",
+      "status": "ready",
+      "thumbOffset": 3000
+    },
+    {
+      "slug": "02_Mon-14Dec-1200_poster_follow-ups",
+      "scheduledAt": "2026-12-14",
+      "filePath": "media/02_Mon-14Dec-1200_poster_follow-ups.png",
+      "caption": "Calls to return, quotes to send, customers to check in with. Small follow-ups add up quickly.\n\nRobosys builds reminders into the way your business already works, so the right person gets the right nudge at the right time.\n\nTell us which follow-ups matter most to you.\n\n#BusinessAutomation #FollowUp #Reminders #CustomerCare #Robosys",
+      "mediaType": "IMAGE",
+      "status": "ready"
+    },
+    {
+      "slug": "03_Mon-14Dec-1800_reel_new-team-member",
+      "scheduledAt": "2026-12-14",
+      "filePath": "media/03_Mon-14Dec-1800_reel_new-team-member.mp4",
+      "caption": "Every new team member has to learn how your business does things.\n\nWhen the way you work is built into your systems, new people can follow clear steps from day one instead of waiting to be shown.\n\nRobosys builds systems around how your business runs, so your work is easier to learn and easier to pass on.\n\nMake your business easier to learn. Send us a message.\n\n#TeamOnboarding #BusinessSystems #BusinessAutomation #SmallBusinessTeam #Robosys",
+      "mediaType": "REELS",
+      "status": "ready",
+      "thumbOffset": 3000
+    },
+    {
+      "slug": "04_Tue-15Dec-1800_reel_story-behind",
+      "scheduledAt": "2026-12-15",
+      "filePath": "media/04_Tue-15Dec-1800_reel_story-behind.mp4",
+      "caption": "People like to know who they are buying from.\n\nBehind the scenes content, the story of how you started and a look at how your work gets made help customers feel they know you.\n\nRobosys plans and creates content around your story, in a voice that sounds like you.\n\nLet's tell your story. Send us a message.\n\n#BrandStory #BehindTheScenes #ContentCreation #SocialMediaMarketing #Robosys",
+      "mediaType": "REELS",
+      "status": "ready",
+      "thumbOffset": 3500
+    },
+    {
+      "slug": "05_Wed-16Dec-0600_reel_day-off",
+      "scheduledAt": "2026-12-16",
+      "filePath": "media/05_Wed-16Dec-0600_reel_day-off.mp4",
+      "caption": "Your business can keep moving while you take a day off.\n\nOrders can be confirmed, customers kept updated and tasks passed to the right people while you are away, with a clear summary waiting when you are back.\n\nRobosys builds systems that keep everyday work moving.\n\nLet's plan your next day off. Talk to us.\n\n#BusinessAutomation #WorkLifeBalance #BusinessOwner #Workflows #Robosys",
+      "mediaType": "REELS",
+      "status": "ready",
+      "thumbOffset": 3500
+    },
+    {
+      "slug": "06_Wed-16Dec-1200_poster_first-impression",
+      "scheduledAt": "2026-12-16",
+      "filePath": "media/06_Wed-16Dec-1200_poster_first-impression.png",
+      "caption": "Most customers meet your business online before they ever visit, call or buy.\n\nRobosys creates profiles, websites and posts that look the part and give people a clear, confident first impression of your business.\n\nMake your first impression count.\n\n#FirstImpressions #OnlinePresence #BrandDesign #BusinessMarketing #Robosys",
+      "mediaType": "IMAGE",
+      "status": "ready"
+    },
+    {
+      "slug": "07_Wed-16Dec-1800_reel_team-handoffs",
+      "scheduledAt": "2026-12-16",
+      "filePath": "media/07_Wed-16Dec-1800_reel_team-handoffs.mp4",
+      "caption": "Work often passes through several people before it is finished.\n\nWhen each handoff carries its notes, its owner and its due date, everyone knows what is theirs and nothing has to be chased.\n\nRobosys builds the flow of work around your team.\n\nTell us where work gets stuck. Send us a message.\n\n#TeamWorkflow #BusinessSystems #ProcessImprovement #WorkflowAutomation #Robosys",
+      "mediaType": "REELS",
+      "status": "ready",
+      "thumbOffset": 3000
+    },
+    {
+      "slug": "08_Thu-17Dec-1800_reel_conversations",
+      "scheduledAt": "2026-12-17",
+      "filePath": "media/08_Thu-17Dec-1800_reel_conversations.mp4",
+      "caption": "Every comment and message is a chance to connect with someone interested in your business.\n\nReplying well, and in good time, turns followers into conversations and conversations into customers.\n\nRobosys manages your social channels day to day, from planning posts to answering people.\n\nLet's grow your community. Send us a message.\n\n#SocialMediaManagement #CommunityBuilding #CustomerEngagement #ContentMarketing #Robosys",
+      "mediaType": "REELS",
+      "status": "ready",
+      "thumbOffset": 2500
+    },
+    {
+      "slug": "09_Fri-18Dec-0600_reel_more-customers-more-work",
+      "scheduledAt": "2026-12-18",
+      "filePath": "media/09_Fri-18Dec-0600_reel_more-customers-more-work.mp4",
+      "caption": "Growth brings two needs.\n\nMarketing helps more customers find you. More customers then bring more work, and well built systems keep that work manageable.\n\nRobosys offers marketing and automation as two separate services, each one built around your business.\n\nTell us where you want to grow.\n\n#BusinessGrowth #MarketingServices #AutomationServices #GrowingBusiness #Robosys",
+      "mediaType": "REELS",
+      "status": "ready",
+      "thumbOffset": 1300
+    },
+    {
+      "slug": "10_Fri-18Dec-1800_reel_referrals",
+      "scheduledAt": "2026-12-18",
+      "filePath": "media/10_Fri-18Dec-1800_reel_referrals.mp4",
+      "caption": "Happy customers are often your best source of new ones.\n\nA simple way to share, and a thank-you for both the customer and their friend, turns word of mouth into new business.\n\nRobosys plans and runs campaigns that reward recommendations.\n\nLet's grow by word of mouth. Send us a message.\n\n#ReferralMarketing #WordOfMouth #CustomerLoyalty #MarketingCampaigns #Robosys",
+      "mediaType": "REELS",
+      "status": "ready",
+      "thumbOffset": 3500
+    },
+    {
+      "slug": "11_Sat-19Dec-0600_reel_customer-updates",
+      "scheduledAt": "2026-12-19",
+      "filePath": "media/11_Sat-19Dec-0600_reel_customer-updates.mp4",
+      "caption": "Customers like to know what is happening with their order, booking or job.\n\nAutomatic updates at each step keep them informed without anyone having to pick up the phone.\n\nRobosys builds updates around the way your business works.\n\nKeep your customers in the loop. Send us a message.\n\n#CustomerExperience #CustomerUpdates #BusinessAutomation #CustomerCommunication #Robosys",
+      "mediaType": "REELS",
+      "status": "ready",
+      "thumbOffset": 3000
+    },
+    {
+      "slug": "12_Sat-19Dec-1800_reel_your-own-words",
+      "scheduledAt": "2026-12-19",
+      "filePath": "media/12_Sat-19Dec-1800_reel_your-own-words.mp4",
+      "caption": "Getting started takes one message, written in plain words.\n\nTell us what you want to improve in your own words. We turn it into a clear plan, agree the result with you, and then build or run the work.\n\nHave something you'd like to improve? Start with a message.\n\n#Robosys #GetStarted #BusinessSolutions #SmallBusinessSupport #WorkWithUs",
+      "mediaType": "REELS",
+      "status": "ready",
+      "thumbOffset": 3000
     }
   ]
 }
