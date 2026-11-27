@@ -707,6 +707,112 @@
       "mediaType": "REELS",
       "status": "ready",
       "thumbOffset": 2500
+    },
+    {
+      "slug": "01_Mon-07Dec-0600_reel_stock-replenishment",
+      "scheduledAt": "2026-12-07",
+      "filePath": "media/01_Mon-07Dec-0600_reel_stock-replenishment.mp4",
+      "caption": "Stock management can be easier to maintain when replenishment follows clear rules.\n\nStock levels, reorder alerts and supplier requests can work together.\nThe process can be tailored to the items and requirements of your business.\nRobosys builds and delivers the system for you.\n\nMessage us to discuss stock management.\n\n#InventoryManagement #StockControl #BusinessAutomation #OperationsSystems #Robosys",
+      "mediaType": "REELS",
+      "status": "ready",
+      "thumbOffset": 4000
+    },
+    {
+      "slug": "02_Mon-07Dec-1200_poster_team-schedules",
+      "scheduledAt": "2026-12-07",
+      "filePath": "media/02_Mon-07Dec-1200_poster_team-schedules.png",
+      "caption": "A clear schedule helps every person on your team know where they need to be.\n\nRobosys can build a scheduling system that plans shifts, shows each person their week and handles swap requests with a simple approval. The setup is designed around the way your team works.\n\nMessage us to discuss team scheduling.\n\n#StaffScheduling #ShiftPlanning #TeamManagement #WorkforceSystems #Robosys",
+      "mediaType": "IMAGE",
+      "status": "ready"
+    },
+    {
+      "slug": "03_Mon-07Dec-1800_reel_busy-dates",
+      "scheduledAt": "2026-12-07",
+      "filePath": "media/03_Mon-07Dec-1800_reel_busy-dates.mp4",
+      "caption": "Some dates matter more to your business than others.\n\nNew Year, holiday sales and your own anniversary are chances to reach customers when they are ready to buy.\nPlanning early means the posts, ads and emails are ready before the day arrives.\nRobosys plans the dates and runs the campaigns for you.\n\nTell us your busiest dates.\n\n#SeasonalMarketing #CampaignPlanning #MarketingCalendar #HolidayMarketing #Robosys",
+      "mediaType": "REELS",
+      "status": "ready",
+      "thumbOffset": 3600
+    },
+    {
+      "slug": "04_Tue-08Dec-1800_reel_approval-routing",
+      "scheduledAt": "2026-12-08",
+      "filePath": "media/04_Tue-08Dec-1800_reel_approval-routing.mp4",
+      "caption": "A clear approval process gives each request a defined next step.\n\nRequests can reach the right reviewer.\nDecisions and updates can remain visible to the people involved.\nRobosys builds approval systems around your business requirements.\n\nSend us a message about your approval process.\n\n#WorkflowAutomation #ApprovalProcess #BusinessSystems #ProcessDesign #Robosys",
+      "mediaType": "REELS",
+      "status": "ready",
+      "thumbOffset": 3500
+    },
+    {
+      "slug": "05_Wed-09Dec-0600_reel_accurate-records",
+      "scheduledAt": "2026-12-09",
+      "filePath": "media/05_Wed-09Dec-0600_reel_accurate-records.mp4",
+      "caption": "Reliable records support better day-to-day decisions.\n\nEntry checks can catch incomplete information.\nFormat validation and duplicate checks can help keep records consistent.\nRobosys builds these safeguards into a system designed for your business.\n\nMessage us to discuss record accuracy.\n\n#DataAccuracy #DataValidation #BusinessAutomation #DigitalSystems #Robosys",
+      "mediaType": "REELS",
+      "status": "ready",
+      "thumbOffset": 3500
+    },
+    {
+      "slug": "06_Wed-09Dec-1200_poster_customer-reviews",
+      "scheduledAt": "2026-12-09",
+      "filePath": "media/06_Wed-09Dec-1200_poster_customer-reviews.png",
+      "caption": "Reviews from real customers help new customers decide with confidence.\n\nRobosys can set up a simple way to ask customers for a review after a visit or purchase, then share those reviews on your website and social pages.\n\nMessage us to make reviews part of your marketing.\n\n#CustomerReviews #ReputationMarketing #SocialProof #LocalMarketing #Robosys",
+      "mediaType": "IMAGE",
+      "status": "ready"
+    },
+    {
+      "slug": "07_Wed-09Dec-1800_reel_customer-email",
+      "scheduledAt": "2026-12-09",
+      "filePath": "media/07_Wed-09Dec-1800_reel_customer-email.mp4",
+      "caption": "Email marketing helps a business stay connected after someone first gets in touch.\n\nA welcome email, helpful updates and a relevant offer when they are ready.\nA planned email approach keeps communication purposeful.\nRobosys plans, creates and manages email marketing for businesses.\n\nSend this to a business owner who could use email marketing.\n\n#EmailMarketing #WelcomeEmails #MarketingContent #BusinessMarketing #Robosys",
+      "mediaType": "REELS",
+      "status": "ready",
+      "thumbOffset": 3600
+    },
+    {
+      "slug": "08_Thu-10Dec-1800_reel_built-and-run",
+      "scheduledAt": "2026-12-10",
+      "filePath": "media/08_Thu-10Dec-1800_reel_built-and-run.mp4",
+      "caption": "Robosys offers two separate services, and each one works differently.\n\nAutomation and systems are built for your business and delivered ready to use.\nMarketing is run for you month after month: planned, posted and reviewed.\nChoose the one you need, or both, and we agree the result before we start.\n\nTell us what you need help with.\n\n#BusinessServices #BusinessSystems #MarketingServices #BusinessGrowth #Robosys",
+      "mediaType": "REELS",
+      "status": "ready",
+      "thumbOffset": 2500
+    },
+    {
+      "slug": "09_Fri-11Dec-0600_reel_campaign-insights",
+      "scheduledAt": "2026-12-11",
+      "filePath": "media/09_Fri-11Dec-0600_reel_campaign-insights.mp4",
+      "caption": "Campaign reviews help marketing decisions stay informed.\n\nCompare messages and see how people respond.\nUse the findings to plan the next campaign.\nRobosys manages campaigns and reviews their performance with you.\n\nMessage us to discuss your next campaign.\n\n#CampaignAnalytics #MarketingInsights #AdvertisingStrategy #CampaignPlanning #Robosys",
+      "mediaType": "REELS",
+      "status": "ready",
+      "thumbOffset": 3500
+    },
+    {
+      "slug": "10_Fri-11Dec-1800_reel_customer-questions",
+      "scheduledAt": "2026-12-11",
+      "filePath": "media/10_Fri-11Dec-1800_reel_customer-questions.mp4",
+      "caption": "Helpful content gives customers a clearer understanding of your business.\n\nAnswer common questions.\nExplain what customers need to know.\nRobosys plans and creates content as part of your marketing.\n\nFollow for more practical marketing ideas.\n\n#ContentMarketing #CustomerEducation #SocialMediaContent #BrandTrust #Robosys",
+      "mediaType": "REELS",
+      "status": "ready",
+      "thumbOffset": 3400
+    },
+    {
+      "slug": "11_Sat-12Dec-0600_reel_first-questions",
+      "scheduledAt": "2026-12-12",
+      "filePath": "media/11_Sat-12Dec-0600_reel_first-questions.mp4",
+      "caption": "Your first conversation with Robosys starts with your business, not a package.\n\nWe ask what your business does, what you want to grow, what takes the most time and what success would look like.\nYour answers shape the plan, and we agree the result before any work begins.\n\nSend us a message to start that conversation.\n\n#FirstStep #BusinessConsultation #ClientProcess #WorkWithUs #Robosys",
+      "mediaType": "REELS",
+      "status": "ready",
+      "thumbOffset": 3500
+    },
+    {
+      "slug": "12_Sat-12Dec-1800_reel_access-permissions",
+      "scheduledAt": "2026-12-12",
+      "filePath": "media/12_Sat-12Dec-1800_reel_access-permissions.mp4",
+      "caption": "Business information should be accessible according to each person's role.\n\nSet viewing and editing permissions with clear rules.\nKeep sensitive details limited to authorized users.\nRobosys builds and configures systems around your requirements.\n\nMessage us to discuss access control.\n\n#AccessControl #BusinessSystems #WorkflowDesign #DigitalOperations #Robosys",
+      "mediaType": "REELS",
+      "status": "ready",
+      "thumbOffset": 3500
     }
   ]
 }
