@@ -566,8 +566,11 @@
       "filePath": "media/02_Fri-27Nov-0600_reel_marketing-plan.mp4",
       "caption": "The best marketing starts before the first post goes out.\n\nA clear goal, the right audience, the right message and a calendar to follow give every piece of content a job to do.\n\nRobosys plans your marketing and then runs it, from the first idea to the finished campaign.\n\nLet's plan your marketing. Send us a message.\n\n#MarketingStrategy #MarketingPlan #ContentPlanning #BusinessMarketing #Robosys",
       "mediaType": "REELS",
-      "status": "ready",
-      "thumbOffset": 3600
+      "status": "posted",
+      "thumbOffset": 3600,
+      "postedAt": "2026-11-27",
+      "permalink": "https://www.instagram.com/reel/DgO00A8Nnbd/",
+      "permalinkFacebook": "POSTED:1538696684985027"
     },
     {
       "slug": "03_Fri-27Nov-1800_reel_daily-operations",
